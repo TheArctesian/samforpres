@@ -9,7 +9,7 @@
 	</div>
 	<div class="text-container my-3">
 		<h1 class="text-center text-9xl text-[var(--pri)]">Sam Grotenstein</h1>
-		<h3 class="text-center text-5xl text-[var(--sec)]">Sam for Change</h3>
+		<h3 class="text-center text-5xl text-[var(--sec)]">Sam for ASUC President</h3>
 		<p class="text-center text-l my-3">
 			Current systems block student-led initiatives; this must change. My campaign is committed to
 			empowering student voices and driving progressive action. We're not just hoping for change,
