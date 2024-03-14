@@ -23,8 +23,9 @@
 			<a href="/Policy#campus" class="a py-2 px-4 block whitespace-no-wrap"
 				>Campus Improvement</a
 			>
-			<a href="/Policy#mental" class="a py-2 px-4 block whitespace-no-wrap">Mental Health</a>
+			<a href="/Policy#mental" class="a py-2 px-4 block whitespace-no-wrap">Student Health</a>
 			<a href="/Policy#housing" class="a rounded-b py-2 px-4 block whitespace-no-wrap">Housing</a>
+			<a href="/Policy#divestment" class="a rounded-b py-2 px-4 block whitespace-no-wrap">Divestment</a>
 		</div>
 	</div>
 	<a
