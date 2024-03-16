@@ -1,131 +1,114 @@
 <div>
-	<h2>Student Housing Demand:</h2>
+	<h1 class="text-center">Housing Oversight Committee (HOC)</h1>
 
+	<h2>Demand for Student Housing: An Overview</h2>
+	<div>
+		<p>
+			Every year, more than 45,000 students enroll at UC Berkeley, which creates a huge demand for
+			rental properties near campus. There is still a large discrepancy between supply and demand
+			for university-owned student housing, despite efforts to expand it. Campus data indicates that
+			the housing system usually receives many more applications than it can handle, which drives up
+			the cost of rent for living off campus.
+		</p>
+		<p>
+			On-campus housing: According to the most recent information provided by the university, UC
+			Berkeley has over 20 residence halls and apartment complexes, yet only 9,875 beds are
+			available for its 45,000 students. Most UCB students are unable to locate housing on campus
+			due to space and price restrictions, therefore many choose to either look into higher-cost
+			options or find housing through the Berkeley Student Cooperative system (BSC).
+		</p>
+		<p>
+			With a large percentage of students suffering homelessness and housing instability, the
+			problem of student homelessness is a critical one at UC Berkeley. In UC Berkeley's 2017
+			housing survey, almost 10% of students said they had been homeless at some point during their
+			academic careers, and over 20% of postdocs agreed with the assertion. It appears that
+			combating student homelessness and helping at-risk students who are having difficulty finding
+			permanent housing are critical priorities.
+		</p>
+	</div>
+
+	<h2>Policy Recommendations:</h2>
+	<h3>Introduction:</h3>
 	<p>
-		Demand for student housing in Berkeley is consistently high, driven by the large student
-		population attending UC Berkeley. According to recent statistics, the university enrolls over
-		42,000 undergraduate and graduate students annually, making it one of the largest universities
-		in the United States. With such a sizable student body, the demand for housing both on and
-		off-campus is significant. Despite UC Berkeley's efforts to expand on-campus housing options,
-		including recent developments such as the Upper Hearst project, which added 750 beds to the
-		university's housing inventory, there remains a gap between supply and demand. The university's
-		housing system typically receives far more applications than it can accommodate, leading many
-		students to seek housing in the surrounding neighborhoods.
+		We propose a two-pronged policy approach to start addressing the concerns of students in terms
+		of finding affordable accommodation. First, a BSC Housing Oversight Committee will be
+		established in order to address the requirements of the students residing in the BSC. The
+		creation of a Student accommodation Support Program is the second step toward meeting the
+		requirements of students who are looking for off-campus accommodation outside of the BSC.
 	</p>
-
-	<h2>On-Campus Housing:</h2>
+	<h3>Berkeley Student Co-operative (BSC):</h3>
 	<p>
-		UC Berkeley's on-campus housing system provides a range of options to meet the diverse needs of
-		its student population. As of the latest available data, the university operates over 20
-		residence halls and apartment buildings, with a total capacity exceeding 6,000 beds. These
-		facilities offer various amenities, including dining halls, study lounges, fitness centers, and
-		24-hour security. The demand for on-campus housing is evident in the high occupancy rates
-		reported by the university. In recent years, occupancy rates for UC Berkeley's on-campus housing
-		have consistently exceeded 95%, indicating a high level of demand among students for these
-		accommodations. However, due to space limitations and budget constraints, not all students who
-		apply for on-campus housing can be accommodated, leading many to explore off-campus options.
+		Established in 1933, the BSC operates over 20 cooperative houses and apartment complexes (often
+		referred to as Co-Ops), collectively housing hundreds of students each year. Co-Ops offer unique
+		and affordable housing for students. Students in the Co-Ops perform weekly chores and
+		participate in regular democratic meetings to maintain the cleanliness of their house.
 	</p>
-
-	<h2>Off-Campus Housing:</h2>
 	<p>
-		Off-campus housing in Berkeley primarily consists of rental properties located in neighborhoods
-		surrounding the university. Popular areas for student housing include Southside, Northside, and
-		Downtown Berkeley, where students can find a variety of apartments, condominiums, and
-		single-family homes for rent. Recent data from the Berkeley Rent Stabilization Board indicates
-		that the median rent for a one-bedroom apartment in Berkeley is approximately $2,500 per month,
-		with rents varying depending on factors such as location, size, and amenities. Despite the
-		higher cost of off-campus housing compared to on-campus options, many students choose to live
-		off-campus to enjoy greater independence and flexibility. However, the demand for off-campus
-		housing in Berkeley often exceeds availability, particularly in highly sought-after
-		neighborhoods close to campus. As a result, students may face stiff competition for rental
-		properties and may need to start their housing search well in advance to secure suitable
-		accommodations. Overall, the combination of limited on-campus housing availability and high
-		demand for off-campus housing underscores the challenges that students in Berkeley face in
-		finding affordable and suitable accommodations during their academic tenure.
+		In addition to having to work off some of their rent, students face other trade-offs in exchange
+		for the lower rent prices the Co-Ops offer. For example, the high turnover rate in Co-Op rooms
+		allows for sanitary or plumbing issues to often go unnoticed. Maintenance and privacy issues in
+		Co-Op housing often cause mental strain for student inhabitants who can’t afford to find housing
+		elsewhere.
 	</p>
+	<p>1. Case Study - Barrington Hall</p>
+	<div>
+		<p>
+			The closure of Barrington Hall in 1990 serves as a cautionary tale highlighting the challenges
+			faced by Co-Op buildings. As recently reflected in an article by the SF Chronicle, the current
+			state of Berkeley’s Co-Ops has been declining and appears similar to Barrington Hall in the
+			late 80s; to prevent similar closures in the future, the ASUC Office of the President will
+			propose instantiation of an oversight committee to extend financial and organizational support
+			to the BSC.
+		</p>
+	</div>
+	<p>2. Policy Proposal: BSC Housing Oversight Committee</p>
 
-	<h2>Berkeley Student Cooperatives (Co-ops):</h2>
-
+	<div>
+		<p>
+			We propose that the ASUC invests significant funding in a BSC oversight committee, where
+			nearly all funds would go directly to BSC Co-ops and students within these co-ops. This
+			committee would be able to offer emergency relief funding to students within the co-ops and
+			relief to co-ops with maintenance issues.
+		</p>
+	</div>
 	<p>
-		Berkeley's student cooperatives, often referred to simply as co-ops, are an integral part of the
-		city's housing landscape, offering a unique and affordable living experience for students. These
-		cooperative housing communities are founded on principles of cooperation, mutual aid, and
-		democratic decision-making, providing an alternative to traditional on-campus and off-campus
-		housing options. The Berkeley Student Cooperative (BSC) is one of the largest and most
-		well-known cooperative housing organizations in the city. Established in 1933, the BSC operates
-		over 20 cooperative houses and apartment complexes, collectively housing hundreds of students
-		each year. Each cooperative is governed by its members, who participate in regular meetings,
-		committees, and collective decision-making processes.
+		While the BSC is vital in providing housing to a large number of students, there do exist
+		problems inherent to the system that have yet to be addressed by internal solutions. The BSC
+		prides itself on isolation from external pressures and responds to the needs of their residents
+		internally. Nevertheless, there exists tangible evidence of negligence and poor living
+		conditions within co-ops. While it is unclear where this failure of living standards originates
+		due to a lack of data and isolation, this must be addressed. Firstly, a comprehensive review of
+		the co-op system is necessary in order to ascertain the root causes of these issues.
 	</p>
-
-	<h3>A Lesson From Barrington Hall Policy Proposal:</h3>
-
 	<p>
-		Improving Oversight and Support for Student Housing Cooperatives Introduction: The closure of
-		Barrington Hall in 1990 serves as a cautionary tale highlighting the challenges faced by student
-		housing cooperatives, including lack of oversight, poor living conditions, and economic
-		instability which have been described at length by current residents, economic metrics, and news
-		articles (recent SF Chronicle Piece). The current state of UC Berkeley Co-Op’s has been
-		declining and appears similar to Barrington Hall in the late 80s; to prevent similar closures in
-		the future, the ASUC Office of the President will propose the implementation of comprehensive
-		oversight and support measures for student housing cooperatives at UC Berkeley.
+		In order to accomplish further investigation, we recommend the creation of a BSC Housing
+		Oversight Committee.
 	</p>
-
-	<b>Objectives:</b>
-	<ol>
-		<li>
-			Enhance oversight and accountability mechanisms to ensure student housing cooperatives
-			maintain safe and sustainable living environments.
-		</li>
-		<li>
-			Provide financial assistance and resources to address economic challenges faced by student
-			housing cooperatives.
-		</li>
-		<li>
-			Foster collaboration and communication between student cooperatives, university
-			administration, and community stakeholders.
-		</li>
-	</ol>
-
-	<h3>Policy Recommendations:</h3>
 	<p>
-		Establish a Cooperative Housing Oversight Committee: Create a committee composed of
-		representatives from student cooperatives, university administration, housing experts, and
-		community members. This committee will be responsible for overseeing the operations of student
-		housing cooperatives, conducting regular inspections, and addressing any issues related to
-		living conditions, safety, and compliance with regulations. Develop Cooperative Housing
-		Standards: Develop and implement minimum standards for student housing cooperatives, covering
-		aspects such as building maintenance, health and safety protocols, financial management
-		practices, and resident well-being. These standards will serve as a guideline for cooperatives
-		to ensure they meet basic requirements for operation and provide quality living environments for
-		residents. Provide Financial Support and Resources: Allocate funding and resources to support
-		student housing cooperatives in addressing economic challenges, such as rising operating costs,
-		maintenance expenses, and financial instability. Offer financial assistance programs, grants,
-		and low-interest loans to cooperatives facing financial difficulties, enabling them to maintain
-		affordable housing options for students. Facilitate Cooperative Networking and Training:
-		Organize regular meetings, workshops, and training sessions for student cooperative leaders and
-		members to exchange best practices, receive guidance on governance and management issues, and
-		access resources for capacity building. Foster a collaborative network among student
-		cooperatives, encouraging information sharing and mutual support. Promote Cooperative Advocacy
-		and Awareness: Advocate for the recognition and support of student housing cooperatives at the
-		university and local levels, highlighting their role in providing affordable, inclusive housing
-		options for students. Raise awareness about the benefits of cooperative living, community
-		engagement, and sustainable practices among students, faculty, and community members.
+		While the powers of the committee would be systematically limited in scope and ability, the
+		primary goal is student health monitoring. This would require the creation of basic standards of
+		living in BSC housing complexes. These standards are rooted within the Berkeley 19.40 Municipal
+		Housing Code. While BSC is still subject to these regulations, this formed oversight committee
+		would provide a first-look, allowing co-ops to meet compliance before they would be fined before
+		the city, and additionally receive financial support from the ASUC.
 	</p>
-
-	<h3>Implementation and Evaluation:</h3>
 	<p>
-		The ASUC Office of the President will work closely with relevant campus departments, student
-		organizations, and community partners to implement the proposed policy recommendations. Regular
-		assessments and evaluations will be conducted to monitor the effectiveness of the oversight and
-		support measures and identify areas for improvement. Feedback from student cooperatives,
-		residents, and stakeholders will be solicited to inform ongoing policy adjustments and ensure
-		alignment with evolving needs and priorities.
+		Once an in-depth analysis of the housing standards of BSC properties is completed, the oversight
+		council will have emergency funds to address outstanding livability concerns. We propose the
+		oversight committee establishes a list of vetted contractors, who the board can fund to complete
+		necessary repairs.
 	</p>
-
-	<h3>Student Homelessness</h3>
-	Policy Proposal: Addressing Student Homelessness at UC Berkeley
-
+	<p>
+		Furthermore, current student issues regarding livability standards are reported to student house
+		managers. While internal elections and co-op leaders are a vital cultural and structural element
+		of the Berkeley BSC system, an oversight board is vitally necessary in ensuring the safety
+		standards for students. Additionally, this reduces the strain on housing managers, who currently
+		have to manage the living conditions of dozens of students, while being a student themselves. A
+		creation of the oversight board will ensure student residents receive a reputable and powerful
+		system to address emergency housing needs.
+	</p>
+	<p></p>
+	<h2>Student Housing Instability:</h2>
 	<h3>Introduction:</h3>
 	<p>
 		The issue of student homelessness is a pressing concern at UC Berkeley, with a significant
@@ -137,57 +120,75 @@
 
 	<h3>Problem Overview:</h3>
 	<p>
-		According to the 2017 housing survey conducted at UC Berkeley, nearly 10% of students reported
-		experiencing homelessness at one point in their academic career, with more than 20% of postdocs
-		agreeing to the statement. This data underscores the urgent need to address student homelessness
-		and provide support to vulnerable students who are struggling to secure stable housing.
+		According to the 2017 housing survey conducted at UC Berkeley, nearly <b
+			>10% of students reported experiencing homelessness at one point in their academic career,
+			with more than 20% of postdocs agreeing to the statement.
+		</b>This data underscores the urgent need to address student homelessness and provide support to
+		vulnerable students who are struggling to secure stable housing.
 	</p>
 
-	<h3>Policy Recommendations:</h3>
-
-	Establish a Student Housing Support Program:
-
-	<ol>
-		<li>
-			Create a dedicated Student Housing Support Program aimed at assisting homeless and
+	<h3>Student Housing Support Program</h3>
+	<p>Establish a Student Housing Support Program:</p>
+	<div>
+		<p>
+			1. Create a dedicated Student Housing Support Program aimed at assisting homeless and
 			housing-insecure students at UC Berkeley.
-		</li>
-		<li>
-			Provide financial assistance, housing vouchers, and emergency housing options to students
+		</p>
+		<p>
+			2. Provide financial assistance, housing vouchers, and emergency housing options to students
 			facing homelessness or housing instability.
-		</li>
-		<li>
-			Offer case management services, counseling, and referrals to community resources to help
+		</p>
+		<p>
+			3. Offer case management services, counseling, and referrals to community resources to help
 			students navigate housing challenges and access essential support services.
-		</li>
-	</ol>
+		</p>
+	</div>
+
 	<h3>Expand Affordable Housing Options:</h3>
-	<p>
-		Increase the availability of affordable housing options for UC Berkeley students by
-		collaborating with local housing providers, developers, and government agencies. Advocate for
-		the development of new student housing projects, including affordable dormitories, cooperative
-		housing communities, and off-campus apartments, to meet the growing demand for affordable
-		housing.
-	</p>
+
+	<div>
+		<p>
+			1. Increase the availability of affordable housing options for UC Berkeley students by
+			collaborating with local housing providers, developers, and government agencies.
+		</p>
+		<p>
+			2. Advocate for the development of new student housing projects, including affordable
+			dormitories, cooperative housing communities, and off-campus apartments, to meet the growing
+			demand for affordable housing.
+		</p>
+	</div>
+
 	<h3>Enhance Housing Assistance Programs:</h3>
-	<p>
-		Strengthen existing housing assistance programs, such as rental assistance grants, housing
-		subsidies, and roommate matching services, to support students in securing affordable housing
-		arrangements. Streamline application processes, increase outreach efforts, and expand
-		eligibility criteria to ensure that students in need can access housing assistance programs
-		effectively.
-	</p>
-
+	<div>
+		<p>
+			1. Strengthen existing housing assistance programs, such as rental assistance grants, housing
+			subsidies, and roommate matching services, to support students in securing affordable housing
+			arrangements.
+		</p>
+		<p>
+			2. Streamline application processes, increase outreach efforts, and expand eligibility
+			criteria to ensure that students in need can access housing assistance programs effectively.
+		</p>
+	</div>
 	<h3>Provide Comprehensive Support Services:</h3>
-	<p>
-		Establish on-campus support centers or resource hubs where homeless and housing-insecure
-		students can access a wide range of services, including food assistance, financial literacy
-		workshops, legal aid, and mental health counseling. Partner with community organizations,
-		nonprofit agencies, and local businesses to expand the availability of support services and
-		resources for students experiencing homelessness.
-	</p>
+	<div>
+		<p>
+			1. Establish on-campus support centers or resource hubs where homeless and housing-insecure
+			students can access a wide range of services, including food assistance, financial literacy
+			workshops, legal aid, and mental health counseling.
+		</p>
+		<p>
+			2. Offer emergency housing relief to students, by directly funding their housing while they
+			find long-term housing.
+		</p>
+		<p>
+			3. Partner with community organizations, nonprofit agencies, and local businesses to expand
+			the availability of support services and resources for students experiencing homelessness.
+		</p>
+	</div>
 
-	<h3>Implementation and Evaluation:</h3>
+	<h2>Implementation and Evaluation:</h2>
+
 	<p>
 		The ASUC Office of the President will engage in partnerships with university stakeholders,
 		student-run groups, and local community organizations to enact the suggested policy measures.
@@ -197,55 +198,31 @@
 		findings to ensure the continued success of the program in addressing student homelessness at UC
 		Berkeley.
 	</p>
-
-	<h3>Policy Proposals:</h3>
-	<li>Extending greater support to students in the coop system</li>
-	<p class="pm">
-		Outreach program to support students living in coops with specific issues — mental health,
-		sanitary issues, social integration… general wellness support, extending to the students living
-		in the coops an additional community that can support them, because living in the coops can be
-		terrifying (for example lots of students in the coops avoid using the kitchen because of social
-		anxiety — student nutrition is a nontrivial issue! — and a community-support centered outreach
-		program could help with this)
-	</p>
-	<p class="pm">
-		Increased press? (invite students to share their perspectives, provide a platform to amplify
-		their narratives, generate community support in response to the unvoiced issues students in the
-		coop system are facing and not receiving rapid support for)
-	</p>
-
-	<li>
-		Creating infrastructure for students to find roommates and viable, safe, stable, affordable
-		housing options to address the 3-year housing gap after
-	</li>
-	<p class="pm">
-		dorms Roomi/Streeteasy for UCB students? Fr we’re out here scrounging off of facebook and
-		craigslist
-	</p>
 </div>
 
 <style>
 	div {
-		margin: 2rem;
+		padding-left: 2rem;
+		padding-right: 2rem;
 	}
-
+	h1 {
+		color: var(--pri);
+		font-size: 5vw;
+	}
 	h2 {
+		color: var(--pri);
 		font-size: 3vw;
 	}
-	h3 {
-		font-size: 2.5vw;
-	}
-	ol {
-		list-style-type: square;
-		margin-left: 1rem;
-	}
 	p {
-		font-size: 1vw;
+		margin-top: 1rem;
+	}
+	h3 {
+		margin-top: 1rem;
+		font-size: 2vw;
+		color: var(--sec);
+		text-decoration-line: underline;
 	}
 	li {
-		font-size: 1vw;
-	}
-	.pm {
 		margin-left: 1rem;
 	}
 </style>

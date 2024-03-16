@@ -17,11 +17,11 @@
 			>Policy</button
 		>
 		<div class="dropdown-content absolute hidden text-[var(--sec)] pt-1">
-			<a href="/Policy/ASUC" class="a rounded-t py-2 px-4 block whitespace-no-wrap"
+			<!-- <a href="/Policy/ASUC" class="a rounded-t py-2 px-4 block whitespace-no-wrap"
 				>ASUC Reform</a
-			>
-			<a href="/Policy/Campus" class="a py-2 px-4 block whitespace-no-wrap"
-				>Campus Improvement</a
+			> -->
+			<a href="/Policy/Career" class="a py-2 px-4 block whitespace-no-wrap"
+				>COEP</a
 			>
 			<a href="/Policy/Health" class="a py-2 px-4 block whitespace-no-wrap">Student Health</a>
 			<a href="/Policy/Housing" class="a rounded-b py-2 px-4 block whitespace-no-wrap">Housing</a>

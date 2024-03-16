@@ -15,7 +15,7 @@
 	<div id="campus" class="container m-auto my-3">
 		<hr class="h-px mx-8 bg-black border-0 dark:bg-gray-700" />
 		<hr class="h-px mx-8 bg-black border-0 dark:bg-gray-700" />
-		<a href="/Policy/Campus"><h1 class="">Campus Improvement</h1></a>
+		<a href="/Policy/Career"><h1 class="">COEP</h1></a>
 		<hr class="h-px mx-8 bg-black border-0 dark:bg-gray-700" />
 		<hr class="h-px mx-8 bg-black border-0 dark:bg-gray-700" />
 	</div>
