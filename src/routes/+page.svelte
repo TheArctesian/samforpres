@@ -16,18 +16,16 @@
 			empowering student voices and driving progressive action. We're not just hoping for change,
 			we're enacting it. Change is on the horizon, and with your support, it's inevitable.
 		</p>
-		<div class="flex">
+		<div class="flex justify-between">
 			<a href="https://youtube.com/@grotensteinforpresident?si=LYI5rx2KZozbwu5M">
-				<Icon icon="mdi:youtube" width="5vw" style="color:var(--pri)" />
+				<Icon class="icon" icon="mdi:youtube" width="3rem" style="color:var(--pri)" />
 			</a>
 
 			<a href="https://www.instagram.com/samgrotensteinforpresident?igsh=MzRlODBiNWFlZA==">
-			<Icon icon="mdi:instagram" width="5vw" style="color:var(--pri)" />
-
+				<Icon icon="mdi:instagram" width="3rem" style="color:var(--pri)" />
 			</a>
 			<a href="https://www.tiktok.com/@sam.for.president?_t=8kiKthc115i&_r=1">
-			<Icon icon="ic:baseline-tiktok" width="5vw" style="color:var(--pri)" />
-
+				<Icon icon="ic:baseline-tiktok" width="3rem" style="color:var(--pri)" />
 			</a>
 		</div>
 	</div>
@@ -65,7 +63,13 @@
 	p {
 		font-size: 1rem; /* Adjust the size for mobile */
 	}
-
+	a {
+		margin: 3rem;
+	}
+	.midi { 
+		width: 5rem;
+	}
+	
 	/* Media query for tablet and mobile screens */
 	@media (max-width: 768px) {
 		.container {
@@ -85,6 +89,9 @@
 		}
 		p {
 			font-size: 1.25rem; /* Slightly larger text size for readability on smaller screens */
+		}
+		a {
+			margin: 1rem;
 		}
 	}
 </style>

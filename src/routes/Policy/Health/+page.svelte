@@ -157,120 +157,201 @@
 			(76.9%), “Career-related Issue” (50.7%), and “Intimate relationship” (36.7%).
 		</p>
 	</div>
-<p>	CAPS provides free counseling for students regardless of their insurance plan. All the resources provided require students to plan in advance.</p>
-	<br>
-	 <li> Career counseling assessment and library </li>
-	 <div>
-	 	<li> The Career Counseling Library is a unique collection of books, files, directories, and electronic resources staffed by a professional staff who will help you explore majors, careers, and graduate programs. </li>
-	 	<li> Students used to be able to just walk into the Career counseling and assessment library on a first come first serve basis, whenever they needed help, and talk to people who would provide information on career-related issues. However, the library has moved to the third floor of Tang Center and offers virtual programs</li>
-	 	<li> Students can also set up individual meetings that have to be scheduled <u>24 hours in advance.</u> During these meetings, students take the Meyers-Briggs personality test and the Strong Interest Inventory test. The results are then presented to a counselor who evaluates </li>
-	 </div>
-	<li>Drop-in consultations (UHS Mental Health Counselor) </li>
+	<p>
+		CAPS provides free counseling for students regardless of their insurance plan. All the resources
+		provided require students to plan in advance.
+	</p>
+	<br />
+	<li>Career counseling assessment and library</li>
+	<div>
+		<li>
+			The Career Counseling Library is a unique collection of books, files, directories, and
+			electronic resources staffed by a professional staff who will help you explore majors,
+			careers, and graduate programs.
+		</li>
+		<li>
+			Students used to be able to just walk into the Career counseling and assessment library on a
+			first come first serve basis, whenever they needed help, and talk to people who would provide
+			information on career-related issues. However, the library has moved to the third floor of
+			Tang Center and offers virtual programs
+		</li>
+		<li>
+			Students can also set up individual meetings that have to be scheduled <u
+				>24 hours in advance.</u
+			> During these meetings, students take the Meyers-Briggs personality test and the Strong Interest
+			Inventory test. The results are then presented to a counselor who evaluates
+		</li>
+	</div>
+	<li>Drop-in consultations (UHS Mental Health Counselor)</li>
 	<div>
 		<li>Does not constitute mental health treatment</li>
-		<li>Are actually not “drop-in”. You still have to make appointments that are for that week. * There are a total of 26 counselors– a very small group of people compared to how big the student population is. </li></div>
+		<li>
+			Are actually not “drop-in”. You still have to make appointments that are for that week. *
+			There are a total of 26 counselors– a very small group of people compared to how big the
+			student population is.
+		</li>
+	</div>
 	<li>Individual and Couples counseling</li>
 	<div>
-	    <li>Same-day individual counseling </li>
+		<li>Same-day individual counseling</li>
 		<div>
-			<li>Appointments are released for scheduling each day and up to 16 hours ahead.  </li>
-			<li>Call CAPS or access eTang in the morning, or access eTang the night before for the next day. </li>
-			<li>Call CAPS when urgent support is needed - more appointment options are available by calling the main office at 511-642-9494 (M-F 9am-5pm).  </li>
-</div>
-			<li>Virtual Appointments with humanest</li>
-			<div>
-			<li>Drop in groups </li>
-			<div>
-				* Online– you join other people in workshops about journaling, yoga, mindfulness exercises, etc. 
-</div>
-			<li>Individual therapy sessions </li>
-			<div>
-					<li>Only 14 counselor </li>
-					<li>Times available for the next 1-3 weeks (limited times) </li>
-</div>
-				<li>NEST through humanest </li>
-				<div>
-					<li>Text-based expert-moderated peer forums </li>
-					<li>Counselor-led psychoeducation courses   </li>
-					<li>Drop in video groups                    </li>
-</div>
-		<li>Couples Counseling </li>
+			<li>Appointments are released for scheduling each day and up to 16 hours ahead.</li>
+			<li>
+				Call CAPS or access eTang in the morning, or access eTang the night before for the next day.
+			</li>
+			<li>
+				Call CAPS when urgent support is needed - more appointment options are available by calling
+				the main office at 511-642-9494 (M-F 9am-5pm).
+			</li>
+		</div>
+		<li>Virtual Appointments with humanest</li>
 		<div>
-			<li>Call (510) 642-9494 to make a couples counseling appointment <b>(couples counseling appointments cannot be made on eTang)</b>.  </li>
-			<li>Our staff will send you some pre-appointment forms to complete and once you send those back we can schedule your couples counseling appointment. </li>
-			<li>There is no exact time of when you will receive an answer </li>
-</div>
-</div>
+			<li>Drop in groups</li>
+			<div>
+				* Online– you join other people in workshops about journaling, yoga, mindfulness exercises,
+				etc.
+			</div>
+			<li>Individual therapy sessions</li>
+			<div>
+				<li>Only 14 counselor</li>
+				<li>Times available for the next 1-3 weeks (limited times)</li>
+			</div>
+			<li>NEST through humanest</li>
+			<div>
+				<li>Text-based expert-moderated peer forums</li>
+				<li>Counselor-led psychoeducation courses</li>
+				<li>Drop in video groups</li>
+			</div>
+			<li>Couples Counseling</li>
+			<div>
+				<li>
+					Call (510) 642-9494 to make a couples counseling appointment <b
+						>(couples counseling appointments cannot be made on eTang)</b
+					>.
+				</li>
+				<li>
+					Our staff will send you some pre-appointment forms to complete and once you send those
+					back we can schedule your couples counseling appointment.
+				</li>
+				<li>There is no exact time of when you will receive an answer</li>
+			</div>
+		</div>
 	</div>
-	<li>Group Counseling </li>
+	<li>Group Counseling</li>
 	<div>
-		<li>Different workshops and programs listed throughout the week </li>
+		<li>Different workshops and programs listed throughout the week</li>
 
-	<div>
-			<li>Students have to either call and ask to be a part of the programs, send an email to the group facilitator or get a referral from a UHS provider </li>
+		<div>
+			<li>
+				Students have to either call and ask to be a part of the programs, send an email to the
+				group facilitator or get a referral from a UHS provider
+			</li>
 
-	<div>
-				<li>Again, there is no guarantee. A lot of effort has to be put into even being a part of these groups and you have to wait to see if the facilitators will reach out or not. </li>
-
-</div>
-</div>
-</div>
-	<li>Long Term Therapy </li>
+			<div>
+				<li>
+					Again, there is no guarantee. A lot of effort has to be put into even being a part of
+					these groups and you have to wait to see if the facilitators will reach out or not.
+				</li>
+			</div>
+		</div>
+	</div>
+	<li>Long Term Therapy</li>
 	<div>
 		<li>CAPS referral database</li>
 		<div>
-			<li>This searchable database contains names of clinicians who have expressed interest in working with UC Berkeley students. You may search by insurance to see providers who accept your insurance plan. At any time if you need help with referrals, you are welcome to request assistance from a CAPS counselor. Teladoc - Teladoc® allows SHIP members 18 and older to have a video visit with a licensed therapist or psychologist from the convenience of their home, their dorm, or on the go. </li>
-			</div>
-		<li> Students with SHIP</li>
+			<li>
+				This searchable database contains names of clinicians who have expressed interest in working
+				with UC Berkeley students. You may search by insurance to see providers who accept your
+				insurance plan. At any time if you need help with referrals, you are welcome to request
+				assistance from a CAPS counselor. Teladoc - Teladoc® allows SHIP members 18 and older to
+				have a video visit with a licensed therapist or psychologist from the convenience of their
+				home, their dorm, or on the go.
+			</li>
+		</div>
+		<li>Students with SHIP</li>
 		<div>
-			<li> Through your Insurance - You may also locate in-network providers of your choice by calling Wellfleet Member Services at (877) 657-5033, case management support at (888) 893-7264, or by using Wellfleet's <u>provider search tool</u></li>
-			<li> Students with SHIP insurance also have access to the Blue Shield of California PPO network at the same rates. You can search for providers on their provider search tool. </li>
-			<li> When prompted to select a plan, choose “Blue Shield of California PPO.” </li>
-			<li> Work with a UHS Counselor - If you are currently connected with a UHS mental health provider (CAPS, Social Services, or Behavioral Health Provider), they can work with you to locate an off-campus provider that is maximally accessible, appropriate, and affordable with your health care plan.</li>
-</div>
-		<li>Students with other insurance </li>
-		<div> <li>Go through their provider to find counseling and using the database. </li></div>
-			</div>
+			<li>
+				Through your Insurance - You may also locate in-network providers of your choice by calling
+				Wellfleet Member Services at (877) 657-5033, case management support at (888) 893-7264, or
+				by using Wellfleet's <u>provider search tool</u>
+			</li>
+			<li>
+				Students with SHIP insurance also have access to the Blue Shield of California PPO network
+				at the same rates. You can search for providers on their provider search tool.
+			</li>
+			<li>When prompted to select a plan, choose “Blue Shield of California PPO.”</li>
+			<li>
+				Work with a UHS Counselor - If you are currently connected with a UHS mental health provider
+				(CAPS, Social Services, or Behavioral Health Provider), they can work with you to locate an
+				off-campus provider that is maximally accessible, appropriate, and affordable with your
+				health care plan.
+			</li>
+		</div>
+		<li>Students with other insurance</li>
+		<div><li>Go through their provider to find counseling and using the database.</li></div>
+	</div>
 
-<h2>Sexual Safety: </h2>
-<h3>Context: </h3>
-<p>In recent years, there has been a problematic increase in sexual violence and sexual harassment on the UC Berkeley campus- a problem which has largely gone unaddressed by ASUC and admin at large. </p>
-<p>Stories about sexual assault cases going
-	into the bureaucratic void are only increasing, and it is clear that there is a distinct lack of transparency
-	that inflicts unneeded stress on already overwhelmed victims. In addition, victims deal with the same
-	problems with counseling: meetings at most every 2 weeks, when their needs need to be addressed not
-	only fast but consistently.  </p>
-<p>
-	The UCPD website says the increase in sexual violence reports is likely
-	inflation due to the return to in person instruction, and in addition that the increase “reflects individuals
-	feeling more confident in reporting incidents of SVSH, not necessarily an increase in SVSH incidents
-	occurring”. This is dismissive of the problem at large. </p>
-	
-	<p>And regardless of the truth of this statement,
-	597 SVSH reports were filed in 2022-23 at just the Office for the Prevention of Harassment and Discrimination,
-	which is an increase from 471 in 2021-22, 272 in 2020-21, and 446 in 2017-18. Change needs to be made,
-	but as of late there is nothing being done. Looking at even the most recent historical actions done
-	in the past, it is immediately striking that not a single historical- and thus substantive- change
-	has been done since 2017 (https://svsh.berkeley.edu/historical-campus-actions). The last facebook post
-	from the ASUC Sexual Violence Commission was in 2021. </p>
-	
+	<h2>Sexual Safety:</h2>
+	<h3>Context:</h3>
+	<p>
+		In recent years, there has been a problematic increase in sexual violence and sexual harassment
+		on the UC Berkeley campus- a problem which has largely gone unaddressed by ASUC and admin at
+		large.
+	</p>
+	<p>
+		Stories about sexual assault cases going into the bureaucratic void are only increasing, and it
+		is clear that there is a distinct lack of transparency that inflicts unneeded stress on already
+		overwhelmed victims. In addition, victims deal with the same problems with counseling: meetings
+		at most every 2 weeks, when their needs need to be addressed not only fast but consistently.
+	</p>
+	<p>
+		The UCPD website says the increase in sexual violence reports is likely inflation due to the
+		return to in person instruction, and in addition that the increase “reflects individuals feeling
+		more confident in reporting incidents of SVSH, not necessarily an increase in SVSH incidents
+		occurring”. This is dismissive of the problem at large.
+	</p>
+
+	<p>
+		And regardless of the truth of this statement, 597 SVSH reports were filed in 2022-23 at just
+		the Office for the Prevention of Harassment and Discrimination, which is an increase from 471 in
+		2021-22, 272 in 2020-21, and 446 in 2017-18. Change needs to be made, but as of late there is
+		nothing being done. Looking at even the most recent historical actions done in the past, it is
+		immediately striking that not a single historical- and thus substantive- change has been done
+		since 2017 (https://svsh.berkeley.edu/historical-campus-actions). The last facebook post from
+		the ASUC Sexual Violence Commission was in 2021.
+	</p>
+
 	<p>So nothing has been done yet the number rises.</p>
-<h3>	Issues Present: </h3>
-	<li>Lack of legislation </li>
-	<li>Lack of accountability </li>
-	<li>Lack of transparency and swiftness in dealing with cases </li>
+	<h3>Issues Present:</h3>
+	<li>Lack of legislation</li>
+	<li>Lack of accountability</li>
+	<li>Lack of transparency and swiftness in dealing with cases</li>
 	<li>Lack of awareness</li>
-	<li>Not enough student organizations </li>
-<h3>	Objectives: </h3>
-	<li> Improve consent awareness at parties </li>
-	<li> Improve accessibility to CAPS and student services for sexual assault victims</li>
-	<li> Streamline the SVSH reporting system </li>
-<h3>Policy Proposals: </h3>
-	<li>Expand on greek life consent talk legislation by modifying the main consent talk template and have resources be advertised at parties based on research done through the Seed Grant Project. Currently only 57% of surveyed students feel that the current consent talk is effective, whereas 81% of students found a modified consent talk effective. We propose the ASUC mandates this new, revised consent talk be used at all Greek life and co-op parties.</li>
-	<li>Stricter penalty for individuals (be subject to ASUC created review boards that work through Panhellenic Council and Interfraternity Council instead of only greek life boards) </li>
-	<li>Better and more immediate counseling through CAPS (same as our mental health policy), and increasing priority for sexual assault victims. </li>
-	<li>Increase community support by creating more grant programs for prevention research </li>
-	<li>Increase funding for sexual safety oriented organizations, and incentivize the creation of more</li>
+	<li>Not enough student organizations</li>
+	<h3>Objectives:</h3>
+	<li>Improve consent awareness at parties</li>
+	<li>Improve accessibility to CAPS and student services for sexual assault victims</li>
+	<li>Streamline the SVSH reporting system</li>
+	<h3>Policy Proposals:</h3>
+	<li>
+		Expand on greek life consent talk legislation by modifying the main consent talk template and
+		have resources be advertised at parties based on research done through the Seed Grant Project.
+		Currently only 57% of surveyed students feel that the current consent talk is effective, whereas
+		81% of students found a modified consent talk effective. We propose the ASUC mandates this new,
+		revised consent talk be used at all Greek life and co-op parties.
+	</li>
+	<li>
+		Stricter penalty for individuals (be subject to ASUC created review boards that work through
+		Panhellenic Council and Interfraternity Council instead of only greek life boards)
+	</li>
+	<li>
+		Better and more immediate counseling through CAPS (same as our mental health policy), and
+		increasing priority for sexual assault victims.
+	</li>
+	<li>Increase community support by creating more grant programs for prevention research</li>
+	<li>
+		Increase funding for sexual safety oriented organizations, and incentivize the creation of more
+	</li>
 </div>
 
 <style>
@@ -301,5 +382,22 @@
 	}
 	li {
 		margin-left: 1rem;
+	}
+	@media (max-width: 580px) {
+		h1 {
+			font-size: 10vw;
+		}
+		h2 {
+			font-size: 5vw;
+		}
+		p {
+			font-size: 4vw;
+		}
+		h3 {
+			font-size: 5vw;
+		}
+		h4 {
+			font-size: 4.5vw;
+		}
 	}
 </style>

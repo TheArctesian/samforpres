@@ -225,4 +225,21 @@
 	li {
 		margin-left: 1rem;
 	}
+	@media (max-width: 580px) {
+		h1 {
+			font-size: 10vw;
+		}
+		h2 {
+			font-size: 5vw;
+		}
+		p {
+			font-size: 4vw;
+		}
+		h3 {
+			font-size: 5vw;
+		}
+		h4 {
+			font-size: 4.5vw;
+		}
+	}
 </style>

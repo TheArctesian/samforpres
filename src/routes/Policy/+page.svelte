@@ -41,7 +41,6 @@
 		<hr class="h-px mx-8 bg-black border-0 dark:bg-gray-700" />
 	</div>
 </div>
-Technical Consultant and Developer
 <style>
 	a {
 		font-size: 6vw;
@@ -69,4 +68,5 @@ Technical Consultant and Developer
 		list-style-type: square;
 		margin-left: 1rem;
 	}
+
 </style>

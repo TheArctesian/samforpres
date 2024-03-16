@@ -5,11 +5,15 @@
 
 	<p>
 		Despiting holding its place as the number one public university in the country, Berkeley
-		ill-equips its students for entering the workforce. In the class of 2023, <a href="https://career.berkeley.edu/start-exploring/where-do-cal-grads-go/">25% of graduates are
-		still looking for jobs,</a> which is a staggering amount in comparison to other equivalent campuses
-		such as <a href="https://gitnux.org/ucla-employment-statistics/">UCLA</a>, <u>where the same number is 7%</u>. Similarly, 20% of Berkeley's graduates pursue
-		advanced studies in graduate, law, medical schools but are compelled to independently prepare
-		for the entrance exams, often incurring significant personal expenses on preparatory courses.
+		ill-equips its students for entering the workforce. In the class of 2023, <a
+			href="https://career.berkeley.edu/start-exploring/where-do-cal-grads-go/"
+			>25% of graduates are still looking for jobs,</a
+		>
+		which is a staggering amount in comparison to other equivalent campuses such as
+		<a href="https://gitnux.org/ucla-employment-statistics/">UCLA</a>,
+		<u>where the same number is 7%</u>. Similarly, 20% of Berkeley's graduates pursue advanced
+		studies in graduate, law, medical schools but are compelled to independently prepare for the
+		entrance exams, often incurring significant personal expenses on preparatory courses.
 	</p>
 
 	<p>
@@ -137,5 +141,23 @@
 	a {
 		color: var(--sec);
 		text-decoration-line: underline;
+	}
+
+	@media (max-width: 580px) {
+		h1 {
+			font-size: 10vw;
+		}
+		h2 {
+			font-size: 5vw;
+		}
+		p {
+			font-size: 4vw;
+		}
+		h3 {
+			font-size: 5vw;
+		}
+		h4 {
+			font-size: 4.5vw;
+		}
 	}
 </style>
