@@ -28,15 +28,15 @@
 			<a href="/Policy/Divestment" class="a rounded-b py-2 px-4 block whitespace-no-wrap">Divestment</a>
 		</div>
 	</div>
-	<a
+	<!-- <a
 		href="/Endorsements"
 		class="a bold mx-2 text-4xl transition-colors duration-300 hover:text-[var(--pri)]"
 		>Endorsements</a
-	>
-	<a
+	> -->
+	<!-- <a
 		href="/Team"
 		class="a bold mx-2 text-4xl transition-colors duration-300 hover:text-[var(--pri)]">Our Team</a
-	>
+	> -->
 </div>
 
 <hr class="h-px mx-8 bg-black border-0 dark:bg-gray-700" />

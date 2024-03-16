@@ -57,7 +57,7 @@
 
 	<p>There is so much that can be done. All we need is your support.</p>
 
-	<h2>Background:</h2>
+	<h4>Background:</h4>
 
 	<p>
 		The Counseling and Psychological Services (CAPS) at UC Berkeley aims to provide comprehensive
@@ -103,7 +103,7 @@
 		week.
 	</li>
 
-	<h2>Objectives:</h2>
+	<h4>Objectives:</h4>
 	<li>Improve accessibility and responsiveness of CAPS services.</li>
 	<li>Increase the availability of all counseling sessions.</li>
 	<li>Simplify the process for accessing all counseling services</li>
@@ -112,7 +112,7 @@
 		students.
 	</li>
 
-	<h2>Policy Recommendations:</h2>
+	<h4>Policy Recommendations:</h4>
 	<li>
 		Increase Staffing: Hire additional counselors to reduce waiting periods and increase
 		availability.
@@ -285,6 +285,10 @@
 	h2 {
 		color: var(--pri);
 		font-size: 3vw;
+	}
+	h4 {
+		color: var(--pri);
+		font-size: 2.5vw;
 	}
 	p {
 		margin-top: 1rem;
