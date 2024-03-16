@@ -54,28 +54,8 @@
 		font-size: 2.5vw; /* Adjust the vw value as needed */
 	}
 
-	/* Responsive font sizes for the navbar */
-	@media (max-width: 1200px) {
-		.a {
-			font-size: 3vw; /* Increase the vw value as the screen gets smaller to maintain readability */
-		}
-	}
-
-	@media (max-width: 768px) {
-		.a {
-			font-size: 4vw; /* Further increase the vw value for mobile screens */
-		}
-	}
-
-	@media (max-width: 480px) {
-		.a {
-			font-size: 5.5vw; /* Even larger vw value for very small screens */
-		}
-	}
-
-	/* Ensure font size doesn't get too small or too large */
 	.a {
-		font-size: clamp(1rem, 5vw, 3rem); /* Use clamp() to set a minimum and maximum font size */
+		font-size: clamp(1rem, 3rem, 5rem); /* Use clamp() to set a minimum and maximum font size */
 	}
 
 	.dropdown-btn:focus + .dropdown-content,
@@ -103,4 +83,5 @@
 	.dropdown-content a:hover {
 		background-color: var(--sec);
 	}
+
 </style>
