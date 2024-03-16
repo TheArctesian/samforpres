@@ -17,15 +17,15 @@
 			>Policy</button
 		>
 		<div class="dropdown-content absolute hidden text-[var(--sec)] pt-1">
-			<a href="/Policy#asuc" class="a rounded-t py-2 px-4 block whitespace-no-wrap"
+			<a href="/Policy/ASUC" class="a rounded-t py-2 px-4 block whitespace-no-wrap"
 				>ASUC Reform</a
 			>
-			<a href="/Policy#campus" class="a py-2 px-4 block whitespace-no-wrap"
+			<a href="/Policy/Campus" class="a py-2 px-4 block whitespace-no-wrap"
 				>Campus Improvement</a
 			>
-			<a href="/Policy#mental" class="a py-2 px-4 block whitespace-no-wrap">Student Health</a>
-			<a href="/Policy#housing" class="a rounded-b py-2 px-4 block whitespace-no-wrap">Housing</a>
-			<a href="/Policy#divestment" class="a rounded-b py-2 px-4 block whitespace-no-wrap">Divestment</a>
+			<a href="/Policy/Health" class="a py-2 px-4 block whitespace-no-wrap">Student Health</a>
+			<a href="/Policy/Housing" class="a rounded-b py-2 px-4 block whitespace-no-wrap">Housing</a>
+			<a href="/Policy/Divestment" class="a rounded-b py-2 px-4 block whitespace-no-wrap">Divestment</a>
 		</div>
 	</div>
 	<a
@@ -43,6 +43,7 @@
 <hr class="h-px mx-8 bg-black border-0 dark:bg-gray-700" />
 <slot />
 
+<div class="m-10"></div>
 <style>
 	:global(body) {
 		letter-spacing: 0.1em;
