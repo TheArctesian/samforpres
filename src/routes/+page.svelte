@@ -1,6 +1,7 @@
 <script>
 	import '../app.css';
 	import sam from '$lib/sam_hero.png';
+	import Icon from '@iconify/svelte';
 </script>
 
 <div class="container">
@@ -15,6 +16,20 @@
 			empowering student voices and driving progressive action. We're not just hoping for change,
 			we're enacting it. Change is on the horizon, and with your support, it's inevitable.
 		</p>
+		<div class="flex">
+			<a href="https://youtube.com/@grotensteinforpresident?si=LYI5rx2KZozbwu5M">
+				<Icon icon="mdi:youtube" width="5vw" style="color:var(--pri)" />
+			</a>
+
+			<a href="https://www.instagram.com/samgrotensteinforpresident?igsh=MzRlODBiNWFlZA==">
+			<Icon icon="mdi:instagram" width="5vw" style="color:var(--pri)" />
+
+			</a>
+			<a href="https://www.tiktok.com/@sam.for.president?_t=8kiKthc115i&_r=1">
+			<Icon icon="ic:baseline-tiktok" width="5vw" style="color:var(--pri)" />
+
+			</a>
+		</div>
 	</div>
 </div>
 
