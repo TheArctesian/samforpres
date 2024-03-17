@@ -15,6 +15,13 @@
 ::-moz-selection {
 	background: var(--sec);
 	/* Gecko Browsers */
+}				
+
+@font-face {
+	font-family: 'Atkinson-Hyperlegible-Regular';
+	src: url('Atkinson-Hyperlegible-Regular-102.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
 }
 
 @font-face {
@@ -23,9 +30,8 @@
 	font-weight: normal;
 	font-style: normal;
 }
-
 body {
-	font-family: 'AldoTheApache';
+	font-family: 'Atkinson-Hyperlegible-Regular';
 	background-color: var(--bg);
 
 }

@@ -9,8 +9,8 @@
 		<img src={sam} alt="Sam Grotenstein" />
 	</div>
 	<div class="text-container my-3">
-		<h1 class="text-center text-9xl text-[var(--pri)]">Sam Grotenstein</h1>
-		<h3 class="text-center text-5xl text-[var(--sec)]">Sam for ASUC President</h3>
+		<h1 class="aldo-title">Sam Grotenstein</h1>
+		<h3 class="aldo-subtitle">Sam for ASUC President</h3>
 		<p class="text-center text-l my-3">
 			Current systems block student-led initiatives; this must change. My campaign is committed to
 			empowering student voices and driving progressive action. We're not just hoping for change,
@@ -39,6 +39,21 @@
 		align-items: center;
 		height: 90vh; /* Use viewport height to make it take up full screen */
 	}
+	.aldo-title, .aldo-subtitle {
+        font-family: 'AldoTheApache', sans-serif;
+		text-align: center;
+		display: block;
+		margin: 0 auto; 
+    }
+	.aldo-title {
+        font-size: 8rem; /* Original font size for desktop */
+        color: var(--pri); /* If you want to maintain the color styling */
+		line-height: 0.8; /* Adjust this value as needed */
+    }
+	.aldo-subtitle {
+        font-size: 4rem; /* Original font size for desktop */
+        color: var(--sec); /* If you want to maintain the color styling */
+    }
 	.image-container,
 	.text-container {
 		flex: 1; /* This will make both divs take up equal space */
@@ -76,6 +91,12 @@
 			flex-direction: column; /* Stack image-container and text-container */
 			height: auto; /* Adjust height for smaller screens */
 		}
+		.aldo-title {
+            font-size: 4rem; /* Adjusted font size for smaller screens */
+        }
+        .aldo-subtitle {
+            font-size: 2.5rem; /* Adjusted font size for smaller screens */
+        }
 		.image-container,
 		.text-container {
 			width: 90%; /* Full width containers for smaller screens */

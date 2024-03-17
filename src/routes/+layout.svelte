@@ -48,6 +48,20 @@
 
 <div class="m-10"></div>
 <style>
+	@font-face {
+			font-family: 'AldoTheApache';
+			src: url('path_to_your_font/AldoTheApache-Regular.ttf') format('truetype');
+			font-weight: normal;
+			font-style: normal;
+		}
+
+		.a, .dropdown-content a {
+			font-family: 'AldoTheApache', sans-serif; /* Apply AldoTheApache font to .a class and dropdown content links */
+		}
+
+		.dropdown-btn {
+			font-family: 'AldoTheApache', sans-serif; /* Apply AldoTheApache font to the dropdown button */
+		}
 	:global(body) {
 		letter-spacing: 0.1em;
 	}
